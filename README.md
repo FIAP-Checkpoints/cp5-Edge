@@ -3,6 +3,8 @@
 
 Este projeto utiliza um **ESP32** para ler dados de dois sensores: um **DHT22** (para temperatura e umidade) e um **LDR** (para luminosidade). Esses dados são enviados para um **broker MQTT**, onde podem ser visualizados ou utilizados em outros sistemas.
 
+## Link para o projeto
+https://wokwi.com/projects/410551824578875393
 ## Componentes Usados
 
 - **ESP32**: O microcontrolador usado para executar o código.
