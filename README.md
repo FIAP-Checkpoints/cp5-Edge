@@ -1,3 +1,10 @@
+# Members
+Caio S. F. da Silva: RM 554763   
+Matheus R. Montovaneli: RM 555499
+Lucas Vasquez Silva: RM 555159
+Guilherme L. F. R. Gozzi: RM 555768
+André Nakamatsu Rocha: RM 555004 
+
 
 # Monitoramento IoT com ESP32 usando DHT22, LDR e MQTT
 
