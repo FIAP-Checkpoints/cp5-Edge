@@ -1,17 +1,20 @@
-# Members
-Caio S. F. da Silva: RM 554763   
-Matheus R. Montovaneli: RM 555499
-Lucas Vasquez Silva: RM 555159
-Guilherme L. F. R. Gozzi: RM 555768
-André Nakamatsu Rocha: RM 555004 
-
 
 # Monitoramento IoT com ESP32 usando DHT22, LDR e MQTT
+
+**Membros do Projeto:**
+- **Caio S. F. da Silva**: RM 554763
+- **Matheus R. Montovaneli**: RM 555499
+- **Lucas Vasquez Silva**: RM 555159
+- **Guilherme L. F. R. Gozzi**: RM 555768
+- **André Nakamatsu Rocha**: RM 555004
+
+---
 
 Este projeto utiliza um **ESP32** para ler dados de dois sensores: um **DHT22** (para temperatura e umidade) e um **LDR** (para luminosidade). Esses dados são enviados para um **broker MQTT**, onde podem ser visualizados ou utilizados em outros sistemas.
 
 ## Link para o projeto
 https://wokwi.com/projects/410551824578875393
+
 ## Componentes Usados
 
 - **ESP32**: O microcontrolador usado para executar o código.
@@ -158,3 +161,4 @@ void loop() {
 ## Licença
 
 Este projeto é de código aberto e pode ser modificado livremente. Atribuição é apreciada.
+
